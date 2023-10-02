@@ -1,0 +1,13 @@
+# Dependency directories
+node_modules/
+
+# TypeScript compiled directory
+dist/
+
+# IDE / Editor directories
+.idea/
+.vscode/
+
+# Operating System generated files
+.DS_Store
+Thumbs.db
